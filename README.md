@@ -19,6 +19,8 @@ npm i next-sitemap
         npm run postbuild
     3.2 Generate Map - xml file (already done)
         npx next-sitemap
+    3.3 Google Tag
+        npm install @next/third-parties
 
 
 
